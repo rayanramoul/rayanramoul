@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a highly motivated and passionate Artificial Intelligence student whose dream is to use my talents in machine learning/AI and statistical analysis to solve real-world problems and make the customer achieve more. 
 <!--
 **raysr/raysr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
