@@ -1,4 +1,4 @@
-<div align="center" width="100%">
+<div align="center" width="300">
   <img src="header.png" alt="Raysr"></img>
 
 
