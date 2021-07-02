@@ -1,7 +1,7 @@
 ### I am a highly motivated and passionate Artificial Intelligence student whose dream is to use my talents in machine learning/AI and statistical analysis to solve real-world problems and make the customer achieve more. 
 
 
-#### - 🔭 I’m currently working on : Active object localization using deep reinforcement learning.
+#### - 🔭 I’m currently working on : State-of-the-art Unsupervised Image Clustering and its application to cloud images.
 #### - 🌱 I’m currently learning : Deep reinforcement learning, deep learning and vision.
 #### - 📫 How to reach me: raysamram@gmail.com
 </div>
@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=raysr&show_icons=true)](https://github.com/raysr)
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=rayansamy&show_icons=true)](https://github.com/rayansamy)
