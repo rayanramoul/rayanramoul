@@ -2,7 +2,7 @@
 
 
 #### - 🔭 I’m currently working on : State-of-the-art Unsupervised Image Clustering and its application to cloud images.
-#### - 🌱 I’m currently learning : Deep reinforcement learning, deep learning and vision.
+#### - 🌱 I’m currently learning : Capsule Networks.
 #### - 📫 How to reach me: raysamram@gmail.com
 </div>
 <!--
