@@ -23,6 +23,7 @@
   
 </p>
 
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=rayansamy&show_icons=true)](https://github.com/rayansamy)
 
 
 
