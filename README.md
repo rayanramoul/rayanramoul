@@ -11,11 +11,16 @@
 
 <br>
 <p>
-  <a href="https://www.linkedin.com/in/rayan-samy-ramoul-6ab640134/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a></p>
+  <a href="https://www.linkedin.com/in/rayan-samy-ramoul-6ab640134/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
 
-<p><a href="https://github.com/rayansamy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayansamy&count_private=true&show_icons=true?&theme=nord" alt="rayansamy's GitHub Stats"/>
-</a>
+</p>
+
+<p>
+  
+  <a href="https://github.com/rayansamy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayansamy&langs_count=10&hide=html,css,roff&theme=nord&layout=compact" alt="rayansamy's GitHub Stats"/>
+</a></p>
+  
 </p>
 
 
@@ -34,4 +39,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 -->
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=rayansamy&show_icons=true)](https://github.com/rayansamy)
