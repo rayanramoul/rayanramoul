@@ -16,9 +16,7 @@
 <p><a href="https://github.com/rayansamy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayansamy&count_private=true&show_icons=true?&theme=nord" alt="rayansamy's GitHub Stats"/>
 </a>
-<a href="https://github.com/rayansamy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayansamy&langs_count=10&hide=html,css,roff&theme=nord&layout=compact" alt="rayansamy's GitHub Stats"/>
-</a></p>
+</p>
 
 
 
