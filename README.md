@@ -1,8 +1,8 @@
 ### I am a highly motivated and passionate Artificial Intelligence student whose dream is to use my talents in machine learning/AI and statistical analysis to solve real-world problems and make the customer achieve more. 
 
 
-#### - 🔭 I’m currently working on bringing state-of-the-art artificial intelligence algorithms to industry and production.
-#### - 🌱 I’m currently learning : Reinforcement Learning techniques and Capsule Networks.
+#### - 🔭 I’m currently working on : NLP, Computer Vision, GAN, Reinforcement Learning. Bringing state-of-the-art artificial intelligence algorithms to industry and production.
+#### - 🌱 I’m currently learning : Data Science for Finances.
 #### - 📫 How to reach me: raysamram@gmail.com
 </div>
 
