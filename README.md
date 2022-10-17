@@ -14,7 +14,7 @@ I am open-minded, hard-working, and inquisitive. I like to take the initiative a
 </p>
 <br>
 
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=rayansamy&show_icons=true)](https://github.com/rayanramoul)
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=rayanramoul&show_icons=true)](https://github.com/rayanramoul)
 
 <p>
   <a href="https://github.com/rayanramoul">
