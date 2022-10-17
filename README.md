@@ -14,10 +14,10 @@ I am open-minded, hard-working, and inquisitive. I like to take the initiative a
 </p>
 <br>
 
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=rayansamy&show_icons=true)](https://github.com/rayansamy)
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=rayansamy&show_icons=true)](https://github.com/rayanramoul)
 
 <p>
-  <a href="https://github.com/rayansamy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayansamy&langs_count=10&hide=html,css,roff&theme=nord&layout=compact" alt="rayansamy's GitHub Stats"/>
+  <a href="https://github.com/rayanramoul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayansamy&langs_count=10&hide=html,css,roff&theme=nord&layout=compact" alt="rayanramoul's GitHub Stats"/>
 </a></p>
 </p>
