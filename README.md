@@ -9,4 +9,4 @@ I am open-minded, hard-working, and inquisitive. I like to take the initiative a
 
 </div>
 
-Contact me on : contact@rayanramoul.com
+Contact me on : raysamram@gmail.com
