@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **raysamram@gmail.com**
 
-- 📄 Know about my experiences [https://media.licdn.com/dms/document/C4E2DAQHfBjC7668qgA/profile-treasury-document-pdf-analyzed/0/1674225326240?e=1679529600&v=beta&t=1H2rRF7FlH3HB-bsSnIoOBT5ZsCTod7svh8yGbhT-rI](CV/Resume)
+- 📄 Know about my experiences <a href="https://media.licdn.com/dms/document/C4E2DAQHfBjC7668qgA/profile-treasury-document-pdf-analyzed/0/1674225326240?e=1679529600&v=beta&t=1H2rRF7FlH3HB-bsSnIoOBT5ZsCTod7svh8yGbhT-rI">RESUME/CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
