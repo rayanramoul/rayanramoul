@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayan Samy Ramoul</h1>
-<h3 align="center">An AI Research Engineer, Data Scientist @ Quant AI Lab, graduate in a Master Degree of Computer Vision @ Sorbonne University (ex: UPMC)</h3>
+<h3 align="center">An AI Engineer, Data Scientist @ Quant AI Lab, graduate in a Master Degree of Computer Vision @ Sorbonne University (ex: UPMC)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayanramoul&label=Profile%20views&color=0e75b6&style=flat" alt="rayanramoul" /> </p>
 
