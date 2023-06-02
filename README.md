@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rayan Samy Ramoul</h1>
 <h3 align="center">An AI Engineer, Data Scientist @ Quant AI Lab, graduate in a Master Degree of Computer Vision @ Sorbonne University (ex: UPMC)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayanramoul&label=Profile%20views&color=0e75b6&style=flat" alt="rayanramoul" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayanramoul" alt="rayanramoul" /></a> </p>
 
 - 🔭 I’m currently working on **open-source implementation of large vision models**
