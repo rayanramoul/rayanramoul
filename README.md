@@ -21,8 +21,5 @@
 - 📄 Know about my experiences <a href="https://github.com/rayanramoul/rayanramoul/blob/master/Resume.pdf">RESUME/CV</a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanramoul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rayanramoul" /></p>
-
-<p>&nbsp;</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayanramoul&theme=tokyonight" alt="rayanramoul" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanramoul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rayanramoul" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayanramoul&theme=tokyonight" alt="rayanramoul" /></p>
