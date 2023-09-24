@@ -1,5 +1,5 @@
 <h1 align="center">Rayan Samy Ramoul</h1>
-<iframe src="https://giphy.com/embed/1fgLkB8QIZO5KdQLL8" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ai-maze-artificial-intelligence-1fgLkB8QIZO5KdQLL8">via GIPHY</a></p>
+<img src="https://giphy.com/embed/1fgLkB8QIZO5KdQLL8"/>
 
 <p align="center">
 <a href="https://linkedin.com/in/rayan-samy-ramoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan-samy-ramoul" height="30" width="30" /></a>
