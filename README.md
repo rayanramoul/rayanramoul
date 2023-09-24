@@ -1,4 +1,4 @@
-<h1 align="center">AI Engineering</h1>
+<h1 align="center">Rayan Samy Ramoul</h1>
 <p align="center">
 <a href="https://linkedin.com/in/rayan-samy-ramoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan-samy-ramoul" height="30" width="30" /></a>
 </p>
