@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rayan Samy Ramoul</h1>
-<h3 align="center">An AI Engineer, Data Scientist @ Quant AI Lab, graduate in a Master Degree of Computer Vision @ Sorbonne University (ex: UPMC)</h3>
+<h1 align="center">AI Engineering</h1>
+<h3 align="center">Computer Vision / Deep Learning / Reinforcement Learning / Software Engineering </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayanramoul" alt="rayanramoul" /></a> </p>
 
