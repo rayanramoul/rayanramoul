@@ -7,18 +7,19 @@
 <table>
   <tr>
 <td>
-  <div align="center">
-  <a href="https://linkedin.com/in/rayan-samy-ramoul" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan-samy-ramoul" height="30" width="30" />
-  </a>
-</div>
 
 ### About Me
 
 - 🔭 I’m currently working on **open-source implementation of large vision models**
 - 🌱 I’m currently learning **Distributed Training**
 - 💬 Ask me about **Deep Learning, Computer Vision**
-- 📫 Reach me at raysamram[at]gmail.com
+
+### Socials
+- 📫 Email: raysamram[at]gmail.com
+-  LinkedIN: <a href="https://linkedin.com/in/rayan-samy-ramoul" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan-samy-ramoul" height="20" width="20" />
+  </a>
+
 
 ### Resume
 
