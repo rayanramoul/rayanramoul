@@ -8,17 +8,13 @@
 
 - 🔭 I’m currently working on **open-source implementation of large vision models**
 
-- 🌱 I’m currently learning **RLHF**
-
-- 👯 I’m looking to collaborate on **RLHF for vision models and models interpretation**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rayanramoul](https://github.com/rayanramoul)
+- 🌱 I’m currently learning **Distributed Training**
 
 - 💬 Ask me about **Deep Learning, Computer Vision**
 
-- 📫 How to reach me **raysamram@gmail.com**
+- 📫 Reach me at **raysamram[at]gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/rayanramoul/rayanramoul/blob/master/Resume.pdf">RESUME/CV</a>
+- 📄 Resume/CV : <a href="https://github.com/rayanramoul/rayanramoul/blob/master/Resume.pdf">RESUME/CV</a>
 
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanramoul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rayanramoul" />
