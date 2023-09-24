@@ -1,5 +1,6 @@
 <h1 align="center">Rayan Samy Ramoul</h1>
-<img src="https://giphy.com/embed/1fgLkB8QIZO5KdQLL8"/>
+
+<img src="https://github.com/rayanramoul/rayanramoul/blob/master/space.gif?raw=true"/>
 
 <p align="center">
 <a href="https://linkedin.com/in/rayan-samy-ramoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan-samy-ramoul" height="30" width="30" /></a>
