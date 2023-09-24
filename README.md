@@ -3,11 +3,11 @@
   <p>Computer Vision / Deep Learning / Reinforcement Learning / Software Engineering</p>
 </div>
 
-<div align="center">
-  <img src="https://github.com/rayanramoul/rayanramoul/blob/master/space.gif?raw=true" width="400">
-</div>
 
-<div align="center">
+<table>
+  <tr>
+<td>
+  <div align="center">
   <a href="https://linkedin.com/in/rayan-samy-ramoul" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan-samy-ramoul" height="30" width="30" />
   </a>
@@ -30,3 +30,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanramoul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rayanramoul" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayanramoul&theme=tokyonight" alt="rayanramoul" />
 </div>
+
+</td>
+
+
+<td>
+  
+</td>
+  <img src="https://github.com/rayanramoul/rayanramoul/blob/master/space.gif?raw=true" width="400">    
+  </tr>
+</table>
+
+
