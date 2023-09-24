@@ -35,9 +35,8 @@
 
 
 <td>
-  
+  <img src="https://github.com/rayanramoul/rayanramoul/blob/master/space.gif?raw=true" width="400">      
 </td>
-  <img src="https://github.com/rayanramoul/rayanramoul/blob/master/space.gif?raw=true" width="400">    
   </tr>
 </table>
 
