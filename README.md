@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Rayan Samy Ramoul</h1>
-  <p>Computer Vision / Deep Learning / Reinforcement Learning / Software Engineering</p>
+  <p>Computer Vision (CV) / Deep Learning (DL) / Large Language Models (LLM) /Reinforcement Learning (RL) / Software Engineering</p>
 </div>
 
 
@@ -10,9 +10,9 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **open-source implementation of large vision models**
-- 🌱 I’m currently learning **Distributed Training**
-- 💬 Ask me about **Deep Learning, Computer Vision**
+- 🔭 I’m currently working on **open-source implementation of large language models**.
+- 🌱 I’m currently learning **Distributed Training and modern edge NLP**.
+- 💬 Ask me anything about **Deep Learning, Computer Vision, Software Engineering**.
 
 ### Socials
 - 📫 Email: raysamram[at]gmail.com
