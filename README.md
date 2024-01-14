@@ -25,20 +25,4 @@
 
 - 📄 [RESUME/CV](https://github.com/rayanramoul/rayanramoul/blob/master/Resume.pdf)
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanramoul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rayanramoul" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayanramoul&theme=tokyonight" alt="rayanramoul" />
-</div>
-
-</td>
-
-
-<td>
-  <img src="https://github.com/rayanramoul/rayanramoul/blob/master/space.gif?raw=true" width="400">      
-</td>
-  </tr>
-</table>
-
 
